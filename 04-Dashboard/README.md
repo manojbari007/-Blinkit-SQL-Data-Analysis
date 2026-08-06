@@ -23,7 +23,7 @@ If you only want to preview the dashboard without downloading the Power BI file,
 ## 🖼 Dashboard Overview
 
 <p align="center">
-    <img src="./Dashboard.png" alt="Blinkit Power BI Dashboard" width="95%">
+<img src="https://raw.githubusercontent.com/manojbari007/-Blinkit-SQL-Data-Analysis/main/05-Presentation/Dashboard.png" width="95%">
 </p>
 
 ---
