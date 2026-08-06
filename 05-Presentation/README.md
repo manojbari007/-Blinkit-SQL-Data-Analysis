@@ -9,6 +9,6 @@ The Power BI dashboard provides an interactive view of:
 - Payment Analysis
 - Cancellation Trends
 
-<div align="center">
-  <img src="./05-Presentation/Dashboard.png" alt="Blinkit Dashboard" width="100%">
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/manojbari007/-Blinkit-SQL-Data-Analysis/main/05-Presentation/Dashboard.png" alt="Blinkit Dashboard" width="95%">
+</p>
