@@ -1,40 +1,72 @@
 # 📥 Power BI Dashboard
 
-Thank you for visiting this project.
+Thank you for visiting the **Blinkit SQL Business Analysis** project.
 
-The original **Power BI (.pbix)** file exceeds GitHub's recommended upload size, so it is hosted on Google Drive.
-
----
-
-## 📂 Option 1 — Download the PBIX File (Recommended)
-
-If you would like to explore the dashboard, modify visuals, or view the DAX measures, download the original Power BI file.
-
-### 🔗 Download
-
-👉 **[Download Zomato Sales Analysis Dashboard (.pbix)](https://drive.google.com/file/d/1Vpfbq3PJn0jpsy5TdpRRAZjOhbv0hz-A/view?usp=sharing)**
+The original **Power BI (.pbix)** file exceeds GitHub's recommended file size limit, so it is hosted on Google Drive.
 
 ---
 
-# 👀 Option 2 — Preview the Dashboard
+# 📂 Option 1 — Download the Power BI Dashboard (Recommended)
 
-If you only want to view the dashboard without downloading anything, you can use the following resources.
+Explore the complete interactive dashboard, visuals, DAX measures, and reports by downloading the original Power BI file.
 
-## 📄 Dashboard Preview (PDF)
+### 🔗 Download Power BI File
 
-➡️ [View Dashboard PDF](../Documentation/Zomato%20Dashboard.pdf)
+👉 **[Download Blinkit Business Analysis Dashboard (.pbix)](https://docs.google.com/presentation/d/1-UUNKNC5w1MTX_iu_xkEl1OLNtVb6_Q3/edit?usp=sharing&ouid=110809114906453940635&rtpof=true&sd=true)**
 
 ---
 
-## 🖼 Dashboard Screenshot
+# 👀 Option 2 — Dashboard Preview
+
+If you only want to preview the dashboard without downloading the Power BI file, you can view the dashboard screenshot below.
+
+## 🖼 Dashboard Overview
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/nikhilmore2003/Zomato-Sales-Analysis-PowerBI/main/Images/Zomato_Dashboard_Overview.png" width="95%">
+    <img src="./Dashboard.png" alt="Blinkit Power BI Dashboard" width="95%">
 </p>
 
 ---
 
-⭐ Thank you for visiting this project!
+# 📊 Dashboard Highlights
 
-If you found it useful, please consider giving the repository a **Star**.
-If you found it useful, please consider giving the repository a **Star**.
+The dashboard includes the following business insights:
+
+- 📈 Revenue & GMV Analysis
+- 💰 Average Order Value
+- 👥 Customer Distribution
+- 🏪 Top Performing Cities
+- 🚚 Delivery Performance
+- ⏰ Peak Ordering Hours
+- 💳 Payment Method Analysis
+- ❌ Cancellation Analysis
+- ⭐ Customer Ratings
+- 📅 Monthly Revenue Trends
+
+---
+
+# 🛠 Built Using
+
+- Power BI
+- MySQL
+- Microsoft Excel
+- SQL
+- Git & GitHub
+
+---
+
+# 📌 Note
+
+The dashboard is based on analysis of **3.8 Million+ Blinkit Orders** and is intended for educational and portfolio purposes.
+
+---
+
+<div align="center">
+
+## ⭐ Like this project?
+
+If you found this project helpful, please consider giving the repository a **⭐ Star**.
+
+It motivates us to build more real-world data analytics projects.
+
+</div>
