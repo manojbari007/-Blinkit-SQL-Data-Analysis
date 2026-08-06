@@ -6,19 +6,19 @@ The original **Power BI (.pbix)** file exceeds GitHub's recommended file size li
 
 ---
 
-# 📂 Option 1 — Download the Power BI Dashboard (Recommended)
+# 📂 Option 1 — Download the PPT  (Recommended)
 
 Explore the complete interactive dashboard, visuals, DAX measures, and reports by downloading the original Power BI file.
 
-### 🔗 Download Power BI File
+### 🔗 Download PPT File
 
-👉 **[Download Blinkit Business Analysis Dashboard (.pbix)](https://docs.google.com/presentation/d/1-UUNKNC5w1MTX_iu_xkEl1OLNtVb6_Q3/edit?usp=sharing&ouid=110809114906453940635&rtpof=true&sd=true)**
+👉 **[Download Blinkit Data Analysis Dashboard (.ppt)](https://docs.google.com/presentation/d/1-UUNKNC5w1MTX_iu_xkEl1OLNtVb6_Q3/edit?usp=sharing&ouid=110809114906453940635&rtpof=true&sd=true)**
 
 ---
 
 # 👀 Option 2 — Dashboard Preview
 
-If you only want to preview the dashboard without downloading the Power BI file, you can view the dashboard screenshot below.
+If you only want to preview the dashboard without downloading the PPT file, you can view the dashboard screenshot below.
 
 ## 🖼 Dashboard Overview
 
